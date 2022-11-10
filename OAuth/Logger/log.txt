@@ -1,0 +1,121 @@
+2022-11-10 12:50:17.846 +01:00 [INF] User profile is available. Using 'C:\Users\Jaroslav Macoun\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-11-10 12:50:17.968 +01:00 [INF] Creating key {8791f9ae-287e-4c61-aaaf-0b10b07d0a71} with creation date 2022-11-10 11:50:17Z, activation date 2022-11-10 11:50:17Z, and expiration date 2023-02-08 11:50:17Z.
+2022-11-10 12:50:18.021 +01:00 [INF] Writing data to file 'C:\Users\Jaroslav Macoun\AppData\Local\ASP.NET\DataProtection-Keys\key-8791f9ae-287e-4c61-aaaf-0b10b07d0a71.xml'.
+2022-11-10 12:50:19.094 +01:00 [INF] Now listening on: https://localhost:7113
+2022-11-10 12:50:19.096 +01:00 [INF] Now listening on: http://localhost:5011
+2022-11-10 12:50:19.103 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-10 12:50:19.105 +01:00 [INF] Hosting environment: Development
+2022-11-10 12:50:19.106 +01:00 [INF] Content root path: C:\Users\Jaroslav Macoun\source\repos\OAuth\OAuth\
+2022-11-10 12:50:23.909 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7113/ - -
+2022-11-10 12:50:28.470 +01:00 [INF] No SPA development server running at https://localhost:44450 found.
+2022-11-10 12:50:28.793 +01:00 [INF] SPA proxy is not ready. Returning temporary landing page.
+2022-11-10 12:50:28.877 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7113/ - - - 200 - text/html 4952.3972ms
+2022-11-10 12:50:29.080 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7113/favicon.ico - -
+2022-11-10 12:50:29.329 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7113/favicon.ico - - - 404 0 - 249.9446ms
+2022-11-10 12:50:32.091 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7113/ - -
+2022-11-10 12:50:36.183 +01:00 [INF] SPA proxy is not ready. Returning temporary landing page.
+2022-11-10 12:50:36.184 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7113/ - - - 200 - text/html 4093.1878ms
+2022-11-10 12:50:39.237 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7113/ - -
+2022-11-10 12:50:41.334 +01:00 [INF] SPA proxy is not ready. Returning temporary landing page.
+2022-11-10 12:50:41.336 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7113/ - - - 200 - text/html 2099.5751ms
+2022-11-10 12:50:44.403 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7113/ - -
+2022-11-10 12:50:54.430 +01:00 [INF] SPA proxy is not ready. Returning temporary landing page.
+2022-11-10 12:50:54.445 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7113/ - - - 200 - text/html 10041.1652ms
+2022-11-10 12:50:57.485 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7113/ - -
+2022-11-10 12:51:07.513 +01:00 [INF] SPA proxy is not ready. Returning temporary landing page.
+2022-11-10 12:51:07.515 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7113/ - - - 200 - text/html 10030.7199ms
+2022-11-10 12:51:08.727 +01:00 [INF] SPA development server running at 'https://localhost:44450'
+2022-11-10 12:51:10.571 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7113/ - -
+2022-11-10 12:51:12.628 +01:00 [INF] SPA proxy is ready. Redirecting to https://localhost:44450.
+2022-11-10 12:51:12.631 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7113/ - - - 302 0 - 2059.9535ms
+2022-11-10 12:54:25.796 +01:00 [INF] User profile is available. Using 'C:\Users\Jaroslav Macoun\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-11-10 12:54:26.304 +01:00 [INF] Now listening on: https://localhost:7113
+2022-11-10 12:54:26.306 +01:00 [INF] Now listening on: http://localhost:5011
+2022-11-10 12:54:26.316 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-10 12:54:26.318 +01:00 [INF] Hosting environment: Development
+2022-11-10 12:54:26.319 +01:00 [INF] Content root path: C:\Users\Jaroslav Macoun\source\repos\OAuth\OAuth\
+2022-11-10 12:54:28.331 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7113/ - -
+2022-11-10 12:54:32.661 +01:00 [INF] No SPA development server running at https://localhost:44450 found.
+2022-11-10 12:54:32.879 +01:00 [INF] SPA proxy is not ready. Returning temporary landing page.
+2022-11-10 12:54:32.996 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7113/ - - - 200 - text/html 4653.0054ms
+2022-11-10 12:54:36.171 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7113/ - -
+2022-11-10 12:54:40.266 +01:00 [INF] SPA proxy is not ready. Returning temporary landing page.
+2022-11-10 12:54:40.269 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7113/ - - - 200 - text/html 4097.7103ms
+2022-11-10 12:54:43.335 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7113/ - -
+2022-11-10 12:54:47.395 +01:00 [INF] SPA proxy is not ready. Returning temporary landing page.
+2022-11-10 12:54:47.396 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7113/ - - - 200 - text/html 4061.4895ms
+2022-11-10 12:54:50.426 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7113/ - -
+2022-11-10 12:54:53.655 +01:00 [INF] SPA development server running at 'https://localhost:44450'
+2022-11-10 12:54:53.655 +01:00 [INF] SPA proxy is ready. Redirecting to https://localhost:44450.
+2022-11-10 12:54:53.659 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7113/ - - - 302 0 - 3233.3504ms
+2022-11-10 12:56:34.605 +01:00 [INF] User profile is available. Using 'C:\Users\Jaroslav Macoun\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-11-10 12:56:35.009 +01:00 [INF] Now listening on: https://localhost:7113
+2022-11-10 12:56:35.011 +01:00 [INF] Now listening on: http://localhost:5011
+2022-11-10 12:56:35.018 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-10 12:56:35.020 +01:00 [INF] Hosting environment: Development
+2022-11-10 12:56:35.021 +01:00 [INF] Content root path: C:\Users\Jaroslav Macoun\source\repos\OAuth\OAuth\
+2022-11-10 12:56:37.667 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7113/ - -
+2022-11-10 12:56:41.992 +01:00 [INF] No SPA development server running at https://localhost:44450 found.
+2022-11-10 12:56:42.367 +01:00 [INF] SPA proxy is not ready. Returning temporary landing page.
+2022-11-10 12:56:42.390 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7113/ - - - 200 - text/html 4730.8471ms
+2022-11-10 12:56:42.616 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7113/favicon.ico - -
+2022-11-10 12:56:43.146 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7113/favicon.ico - - - 404 0 - 530.3542ms
+2022-11-10 12:56:45.623 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7113/ - -
+2022-11-10 12:56:50.132 +01:00 [INF] SPA proxy is not ready. Returning temporary landing page.
+2022-11-10 12:56:50.134 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7113/ - - - 200 - text/html 4511.3142ms
+2022-11-10 12:56:53.207 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7113/ - -
+2022-11-10 12:57:00.418 +01:00 [INF] SPA development server running at 'https://localhost:44450'
+2022-11-10 12:57:00.418 +01:00 [INF] SPA proxy is ready. Redirecting to https://localhost:44450.
+2022-11-10 12:57:00.426 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7113/ - - - 302 0 - 7218.4994ms
+2022-11-10 12:57:40.405 +01:00 [INF] User profile is available. Using 'C:\Users\Jaroslav Macoun\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-11-10 12:57:40.753 +01:00 [INF] Now listening on: https://localhost:7113
+2022-11-10 12:57:40.756 +01:00 [INF] Now listening on: http://localhost:5011
+2022-11-10 12:57:40.764 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-10 12:57:40.765 +01:00 [INF] Hosting environment: Development
+2022-11-10 12:57:40.767 +01:00 [INF] Content root path: C:\Users\Jaroslav Macoun\source\repos\OAuth\OAuth\
+2022-11-10 12:57:42.990 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7113/ - -
+2022-11-10 12:57:47.306 +01:00 [INF] No SPA development server running at https://localhost:44450 found.
+2022-11-10 12:57:47.546 +01:00 [INF] SPA proxy is not ready. Returning temporary landing page.
+2022-11-10 12:57:47.568 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7113/ - - - 200 - text/html 4587.6287ms
+2022-11-10 12:57:48.218 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7113/favicon.ico - -
+2022-11-10 12:57:48.364 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7113/favicon.ico - - - 404 0 - 145.3960ms
+2022-11-10 12:57:51.196 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7113/ - -
+2022-11-10 12:57:55.273 +01:00 [INF] SPA proxy is not ready. Returning temporary landing page.
+2022-11-10 12:57:55.275 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7113/ - - - 200 - text/html 4079.1108ms
+2022-11-10 12:57:58.346 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7113/ - -
+2022-11-10 12:58:04.130 +01:00 [INF] SPA development server running at 'https://localhost:44450'
+2022-11-10 12:58:04.130 +01:00 [INF] SPA proxy is ready. Redirecting to https://localhost:44450.
+2022-11-10 12:58:04.134 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7113/ - - - 302 0 - 5788.6918ms
+2022-11-10 13:20:06.103 +01:00 [INF] User profile is available. Using 'C:\Users\Jaroslav Macoun\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-11-10 13:20:06.570 +01:00 [INF] Now listening on: https://localhost:7113
+2022-11-10 13:20:06.573 +01:00 [INF] Now listening on: http://localhost:5011
+2022-11-10 13:20:06.582 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-10 13:20:06.585 +01:00 [INF] Hosting environment: Development
+2022-11-10 13:20:06.586 +01:00 [INF] Content root path: C:\Users\Jaroslav Macoun\source\repos\OAuth\OAuth\
+2022-11-10 13:20:10.313 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7113/ - -
+2022-11-10 13:20:14.622 +01:00 [INF] No SPA development server running at https://localhost:44450 found.
+2022-11-10 13:20:15.008 +01:00 [INF] SPA proxy is not ready. Returning temporary landing page.
+2022-11-10 13:20:15.229 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7113/ - - - 200 - text/html 4904.3326ms
+2022-11-10 13:20:15.695 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7113/favicon.ico - -
+2022-11-10 13:20:16.186 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7113/favicon.ico - - - 404 0 - 491.1553ms
+2022-11-10 13:20:18.669 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7113/ - -
+2022-11-10 13:20:22.754 +01:00 [INF] SPA proxy is not ready. Returning temporary landing page.
+2022-11-10 13:20:22.756 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7113/ - - - 200 - text/html 4087.4388ms
+2022-11-10 13:20:25.798 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7113/ - -
+2022-11-10 13:21:49.716 +01:00 [INF] User profile is available. Using 'C:\Users\Jaroslav Macoun\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-11-10 13:21:50.192 +01:00 [INF] Now listening on: https://localhost:7113
+2022-11-10 13:21:50.196 +01:00 [INF] Now listening on: http://localhost:5011
+2022-11-10 13:21:50.206 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-10 13:21:50.208 +01:00 [INF] Hosting environment: Development
+2022-11-10 13:21:50.210 +01:00 [INF] Content root path: C:\Users\Jaroslav Macoun\source\repos\OAuth\OAuth\
+2022-11-10 13:21:52.623 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7113/ - -
+2022-11-10 13:21:56.963 +01:00 [INF] No SPA development server running at https://localhost:44450 found.
+2022-11-10 13:21:57.167 +01:00 [INF] SPA proxy is not ready. Returning temporary landing page.
+2022-11-10 13:21:57.320 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7113/ - - - 200 - text/html 4605.1314ms
+2022-11-10 13:22:00.529 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7113/ - -
+2022-11-10 13:22:04.620 +01:00 [INF] SPA proxy is not ready. Returning temporary landing page.
+2022-11-10 13:22:04.622 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7113/ - - - 200 - text/html 4093.4683ms
+2022-11-10 13:22:07.668 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7113/ - -
+2022-11-10 13:22:15.247 +01:00 [INF] SPA proxy is ready. Redirecting to https://localhost:44450.
+2022-11-10 13:22:15.247 +01:00 [INF] SPA development server running at 'https://localhost:44450'
+2022-11-10 13:22:15.251 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7113/ - - - 302 0 - 7582.9201ms
